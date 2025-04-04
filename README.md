@@ -1,7 +1,7 @@
 # MeterPay
 
 ## Description
-**Payment Manager** is a desktop application that allows users to view and process utility payments for different buildings. Payments are loaded from a SQL database. Through a simple user interface, users can select a house from the list and view its current unpaid bills. Each bill can be paid by clicking the **"Pay"** button.
+**MeterPay** is a desktop application that allows users to view and process utility payments for different buildings. Payments are loaded from a SQL database. Through a simple user interface, users can select a house from the list and view its current unpaid bills. Each bill can be paid by clicking the **"Pay"** button.
 
 ## Features
 - Load and display utility bills from a SQL database.
